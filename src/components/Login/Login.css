@@ -1,0 +1,58 @@
+  #eye{
+    cursor: pointer;
+    color: lightgray;
+    position: absolute;
+    margin-top: -39px;
+    margin-left: 290px;
+  }
+  #main{
+    display: flex;
+    flex-direction: column;
+  }
+  #pub1{
+    margin-top:30px;
+    margin-left: 50px;
+    margin-bottom: 58px;
+  }
+  #pub3{
+    margin-left: 50px;
+  }
+  #pub3 a{
+    color: #0858F7;
+
+  }
+  #pub2{
+    margin-left: 140px;
+    margin-bottom: 75px;
+  }
+  #pub21 div{
+    font-size: 30px;
+  }
+  #pub21,#pub22,#pub23{
+    margin-bottom: 30px;
+  }
+  #username,#password,#submit,#forgot{
+   border-radius: 10px;
+   height: 45px; 
+   width: 320px;
+   background-color: rgba(24, 24, 27, 0.05);
+   border-color: rgba(24, 24, 27, 0.05);
+   font-size: medium;
+  }
+  #submit,#forgot{
+   margin-bottom: 20px; 
+   cursor: pointer;
+  }
+  #submit{
+    background: #0858F7;
+    color: white;
+  }
+  #forgot{
+    margin-left: 85px;
+    color: #0858F7;
+    font-weight: 700;
+  }
+  #checkk{
+ display: flex;
+ flex-direction: row;
+  }
