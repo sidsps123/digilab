@@ -3,7 +3,7 @@ import Hide from "../../images/hide.png";
 import View from "../../images/view.png";
 import { useState} from "react";
 import Sider from "../Sider/Sider";
-import {Link,Navigate} from "react-router-dom";
+import {Navigate} from "react-router-dom";
 import "./Login.css";
 function Login(){
 const[type,setType]=useState("password");

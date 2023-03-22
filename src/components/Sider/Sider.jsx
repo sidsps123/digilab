@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Banner1 from "../../images/Banner.svg";
 import Banner2 from "../../images/Banner1.svg";
 import Banner3 from "../../images/Banner2.svg";

@@ -1,5 +1,4 @@
 import Icon from "../../images/Subtract.svg";
-import { useState} from "react";
 import "./Auth.css";
 import Sider from "../Sider/Sider";
 function Auth(){
